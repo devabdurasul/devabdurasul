@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Abdurasul 👋
 
-<!--
-**devabdurasul/devabdurasul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer passionate about **Angular**, with a special focus on **state management patterns that drive high-performance apps**.
 
-Here are some ideas to get you started:
+## 🚀 Angular Journey
+I share practical tips, demos, and projects showing how good state management directly improves Angular app performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured Angular Projects
+
+
+## 🛠️ Other Tech
+I also work with C#, Python, and full-stack development, building solutions across multiple stacks.
+
+## 📫 Let’s Connect
+- Twitter:  
+- LinkedIn: 
+- Blog: 
+
+---
+
+Thanks for stopping by! Feel free to explore my repos and reach out anytime.
