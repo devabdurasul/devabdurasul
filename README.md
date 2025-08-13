@@ -13,9 +13,8 @@ I share practical tips, demos, and projects showing how good state management di
 I also work with C#, Python, and full-stack development, building solutions across multiple stacks.
 
 ## 📫 Let’s Connect
-- Twitter:  
-- LinkedIn: 
-- Blog: 
+- Twitter:  https://x.com/xaisoqov
+- LinkedIn: https://www.linkedin.com/in/aisoqov 
 
 ---
 
