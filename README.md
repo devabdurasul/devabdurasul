@@ -6,6 +6,7 @@ I'm a full-stack developer passionate about **Angular**, with a special focus on
 I share practical tips, demos, and projects showing how good state management directly improves Angular app performance.
 
 ### 🔥 Featured Angular Projects
+- Angular project structure: https://github.com/devabdurasul/ng_project_structure
 
 
 ## 🛠️ Other Tech
