@@ -7,6 +7,7 @@ I share practical tips, demos, and projects showing how good state management di
 
 ### 🔥 Featured Angular Projects
 - Angular project structure: https://github.com/devabdurasul/ng_project_structure
+- NG Setup — One‑Click Angular & Node.js Installer: https://github.com/devabdurasul/ng-setup
 
 
 ## 🛠️ Other Tech
